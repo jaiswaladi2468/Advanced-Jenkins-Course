@@ -46,12 +46,11 @@ Certainly! Here's the syllabus with emojis:
 - 🔄 Distributed builds and scalability
 - 🐳 Adding VM as agents
 
-📅 **Day 7: Jenkins Security and Authentication**
+📅 **Day 7: Jenkins Security and Integrations**
 
 - 👥 User management and authentication options
 - 🔐 Role-based access control (RBAC)
-- 🛡️ Securing Jenkins with SSL/TLS
-- 🔗 Integrating with LDAP/Active Directory
+- 🛡️ Integration of Sonar or nexus servers
 
 📅 **Day 8: Advanced Jenkins Plugins**
 
