@@ -1,4 +1,4 @@
-# DAY-0
+# DAY-0 | SYLLABUS
 
 An advanced Jenkins course spanning 10 days would cover a wide range of topics to help participants become proficient in Jenkins automation and continuous integration/continuous delivery (CI/CD) processes. Below is a detailed syllabus for such a course:
 
